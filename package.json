@@ -1,0 +1,17 @@
+{
+  "name": "initial_app",
+  "version": "1.0.0",
+  "description": "Trying to lean electronjs for develope desktop app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "initial"
+  ],
+  "author": "arifulkader.org@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
